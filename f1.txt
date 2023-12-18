@@ -1,2 +1,8 @@
 Welcome to DevOps classes
 Welcome Git Hub Classes
+
+
+#These changes are releted to 1002 task
+
+Welcome to Python Fullstack developement
+Welcome to Java Real time Project classes
